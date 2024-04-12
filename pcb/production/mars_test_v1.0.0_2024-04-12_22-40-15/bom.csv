@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"_2, ",TE_0-1734839-6_1x06-1MP_P0.5mm_Horizontal,2,,
+"74HC595_2, 74HC595",SOIC16,2,VAL**,
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D2, D3, D4, D5, D6, D7, D8, D9",ComboDiode,18,,
+JST1,JST_XH_S2B-XH-K_02x2.54mm_Angled,1,,
+Nice!View1,niceview_headers,1,,
+ROT1,rotary_encoder,1,,
+"S1, S10, S11, S12, S13, S14, S15, S16, S17, S2, S3, S4, S5, S6, S7, S8, S9",PG1350,17,,
+"U?_2, U?",XiaoBle,2,Seeed Xiao,
+_1,Tenting Puck,1,Tenting Puck,
+"_2, _3, _4, _5",MountingHole_2.2mm_M2_Pad_Via,4,,
