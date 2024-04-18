@@ -2,7 +2,7 @@
     "layout": {
         "type": "grid",
         "rows": 2,
-        "cols": 2,
+        "cols": 3,
         "hspace": "2mm",
         "vspace": "2mm",
         "rotation": "0deg",
