@@ -8,7 +8,7 @@ Rift is a 34-key wireless split keyboard featuring Nice!View/OLED display ,Rotar
 | Board                 | Front                                             | Back                                               |
 | :--:                  | :--:                                              | :--:                                               |
 | Keyboard PCB Front    | <img src="gallery/keyboard_pcb_front.png">        | <img src="gallery/keyboard_pcb_back.png">          |
-| Xiao Extension        | <img src="gallery/xiao_power_pcb.png" height=105> | <img src="gallery/xiao_power_back.png" height=105> |
+| Xiao Extension        | <img src="gallery/xiao_power_pcb.png" height=200> | <img src="gallery/xiao_power_back.png" height=200> |
 
 ### Inspiration
 - [Ferris(Sweep)](https://github.com/davidphilipbarr/Sweep)
