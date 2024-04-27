@@ -8,8 +8,10 @@ Rift is a 34-key wireless split keyboard featuring Nice!View/OLED display ,Rotar
 ## Keyboard Images
 | Description | Photo |
 | :--: | :--: |
+| Left and Right half | <img src="gallery/together.png"> |
 | With [KLP Lamé](https://github.com/braindefender/KLP-Lame-Keycaps/blob/master/README.md)  keycaps | <img src="gallery/p1.png"> |
 | With Kailh V1 LP switches | <img src="gallery/p2.png"> |
+| No keycaps and switches on Left half | <img src="gallery/together_2.png"> |
 
 *These images are from cad
 ## PCB Images
