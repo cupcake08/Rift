@@ -11,11 +11,11 @@ Rift is a 34-key wireless split keyboard featuring Nice!View/OLED display ,Rotar
 | With [KLP Lamé](https://github.com/braindefender/KLP-Lame-Keycaps/blob/master/README.md)  keycaps | <img src="gallery/p1.png"> |
 | With Kailh V1 LP switches | <img src="gallery/p2.png"> |
 
-*These are cad layout
+*These images are from cad
 ## PCB Images
 | Description                 | Front                                             | Back                                               |
 | :--:                  | :--:                                              | :--:                                               |
-| Keyboard PCB Front    | <img src="gallery/keyboard_pcb_front.png">        | <img src="gallery/keyboard_pcb_back.png">          |
+| Keyboard PCB Front    | <img src="gallery/keyboard_pcb_f.png">        | <img src="gallery/keyboard_pcb_b.png">          |
 | Xiao Extension        | <img src="gallery/xiao_power_pcb.png" height=200> | <img src="gallery/xiao_power_back.png" height=200> |
 
 ### Inspiration
