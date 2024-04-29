@@ -2,3 +2,5 @@
 	path = zmk-config-rift
 	url = https://github.com/cupcake08/zmk-config-rift.git
 	branch = main
+[submodule "main"]
+	branch = origin
