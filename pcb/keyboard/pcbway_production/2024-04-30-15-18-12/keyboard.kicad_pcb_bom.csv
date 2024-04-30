@@ -1,0 +1,14 @@
+﻿designator,quantity,value,pack,mpn,mount_type
+", ",2,,TE_0-1734839-6_1x06-1MP_P0.5mm_Horizontal,,tht
+"74HC595, 74HC595",2,VAL**,SOIC16,,smt
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D2, D3, D4, D5, D6, D7, D8, D9",18,,ComboDiode,,tht
+"JST1, JST1",2,,JST_XH_S2B-XH-K_02x2.54mm_Angled,,tht
+Nice!View1,1,,niceview_headers,,tht
+ROT1,1,,rotary_encoder,,tht
+"S1, S10, S11, S12, S13, S14, S15, S16, S17, S2, S3, S4, S5, S6, S7, S8, S9",17,,PG1350,,tht
+"U?, U?",2,Seeed Xiao,XiaoBle,,tht
+_1,1,Tenting Puck,Tenting Puck,,tht
+"_2, _3, _4, _5",4,,MountingHole_2.2mm_M2_Pad_Via,,tht
+kibuzzard-66181547,1,G***,kibuzzard-66181547,,tht
+kibuzzard-66181572,1,G***,kibuzzard-66181572,,tht
+kibuzzard-6618164F,1,G***,kibuzzard-6618164F,,tht
